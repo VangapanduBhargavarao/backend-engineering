@@ -958,13 +958,7 @@ The objective is to combine backend engineering with AI engineering rather than 
 
 ---
 
-# 📅 Start Date
 
-**September 2026**
-
-## Target
-
-**100 days of consistent backend engineering practice.**
 
 ---
 
